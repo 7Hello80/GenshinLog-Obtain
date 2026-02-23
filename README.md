@@ -68,7 +68,7 @@ request:
 
 ### 获取抽卡链接
 
-1. 使用 HoYoGet 工具获取抽卡记录链接
+1. 使用 [HoYoGet](https://www.wyylkjs.com/HoYoGet/) 工具获取抽卡记录链接
 2. 复制链接粘贴到输入框
 3. 点击「开始分析」
 
