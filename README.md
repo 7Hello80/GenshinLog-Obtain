@@ -22,8 +22,10 @@
 |------|------|--------|
 | Windows | x64 | `yuanshen-go-windows-amd64.exe` |
 | Windows | arm64 | `yuanshen-go-windows-arm64.exe` |
+| Windows | x86-32 | `yuanshen-go-windows-386.exe` |
 | Linux | x64 | `yuanshen-go-linux-amd64` |
 | Linux | arm64 | `yuanshen-go-linux-arm64` |
+| Linux | x86-32| `yuanshen-go-linux-386` |
 | macOS | x64 | `yuanshen-go-darwin-amd64` |
 | macOS | arm64 | `yuanshen-go-darwin-arm64` |
 
